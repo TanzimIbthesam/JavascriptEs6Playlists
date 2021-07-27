@@ -1,0 +1,3 @@
+Who is the creator of JavaScript? 
+What were both names of JavaScript before it was named as JavaScript?
+Where should we use <script> tag in our html file?
