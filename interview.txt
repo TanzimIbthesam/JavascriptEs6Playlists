@@ -1,0 +1,11 @@
+//Variable naming conventions in Javascript 
+
+There cant be space between variables
+//X var a b="Tanzim"
+//To declare VAR you need to use small letter var you cant use capital letter VAR 
+//Variable cant begin with a number or character 
+var 3a="Tanzim";
+//You can use an underscore or $ before naming a variable 
+//Variables are case sensitive 
+var A="Tanzim" console.log(a)
+
