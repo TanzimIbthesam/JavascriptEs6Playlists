@@ -1,0 +1,5 @@
+What is a variable?
+
+
+What is declaring a variable,redeclaring a variable and changing value of a variable? 
+Ways in which a variable is defined in Javascript?
