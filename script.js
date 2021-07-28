@@ -35,4 +35,15 @@ if(true){
 }
 
 console.log(globalScope);
+//Problems with var 
+//Redeclaring a variable that is declaring a vraiable with same name again
+var a=5;
+var a=7;
+var a=9;
+//The  variable with same name can be declared in global scope as well as local scope
+if(true){
+    var a=11;
+}
+console.log(a);
+//It is pointing to same variable
 
