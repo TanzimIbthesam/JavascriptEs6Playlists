@@ -1,0 +1,8 @@
+//let,var and const 
+//Let
+//With let you cant redeclare a variable but you can change value of variable 
+//Lets value declared inside the local scope cant be accessed outside of the local scope
+//You can change the value of globalscope inside local scope with let
+//Const
+//You cant redefine or even change value of variable inside global or local scope 
+//Short rule of thumb-Use const most of the times
