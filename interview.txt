@@ -1,0 +1,6 @@
+//Data Types 
+//String-Accepts anything within a ""
+//Number-Only accepts Number
+//Boolean-true/false
+//Object-Array, 
+//Nan-Not a number 
