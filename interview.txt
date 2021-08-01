@@ -1,0 +1,9 @@
+//Anything inside two "" or '' is a string 
+//String Functions
+//String length-Find out length of string
+//indexOf-Position of String that is any alphabet or number inside a string
+//lastIndexOf-If there are two l or m in a string it will find position of last alphabet 
+//charAt-position of index we want to find out example what is the syntax at position 0
+//substr-There is a starting point and an ending point we can take only the values in those position
+//toUpperCase-Transforms everything inside a string into small letters
+//toUpperCase-Transforms everything inside a string into capital letters
