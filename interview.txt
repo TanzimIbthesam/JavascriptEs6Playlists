@@ -1,0 +1,6 @@
+//trim()-Removes all white space from starting position and ending position
+//slice- Takes string from starting poistion and end position excluding the last position 
+
+//substr vs slice 
+//slice-takes first position or first index of string and last index of string and it cancels the last index
+//
