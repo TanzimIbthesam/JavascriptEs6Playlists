@@ -1,0 +1,4 @@
+/Array 
+//It is an object
+//It can store many data and as well as data of different data types
+//Collection of string or numbers
