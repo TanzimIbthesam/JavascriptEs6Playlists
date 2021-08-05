@@ -1,0 +1,3 @@
+trim-Takes all values of array and concatenates it onto a string and is sperated by a comma
+indexOf()-To find of index of a specific value of an array
+concat-Joins 2 arrays into a single  array
