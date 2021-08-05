@@ -1,0 +1,6 @@
+//How to find length of an array
+//Make an array with 10 values or more find the last position of the array
+//Difference between push and unshift
+//Push adds an element to last position of array and unshift adds an elemnet to first index of an array 
+//Difference between pop and shift
+//pop deletes an element from last position of an array and shift deletes an element from last position of an array
