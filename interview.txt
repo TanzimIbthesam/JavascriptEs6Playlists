@@ -1,0 +1,5 @@
+Difference between slice and splice
+Slice-Takes position of index you want to start,goes upto position of index you want to end  -1 it cancel s out the last index  
+Splice-Takes position of index you want to start,goes upto the number of indexes you want including the starting index
+
+
