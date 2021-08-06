@@ -1,0 +1,3 @@
+toString()-The whole of array is converted on to a string 
+
+Same as join() but in toString() they cant be seperated by some character as per your choice
