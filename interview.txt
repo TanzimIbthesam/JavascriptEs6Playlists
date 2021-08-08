@@ -1,0 +1,2 @@
+//Abstract equality-Comparison is only made between two value not data types ==
+//Strict Equality-Comparison is made between values as well as data types ===
