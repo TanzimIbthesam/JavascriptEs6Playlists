@@ -1,0 +1,3 @@
+parseInt()-Convert a string into number rounding off 
+parseFloat()-Convert a string into number
+toString()-A number converted to s atring
