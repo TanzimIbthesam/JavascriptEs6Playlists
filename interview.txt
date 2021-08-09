@@ -1,0 +1,3 @@
+//Undefined or not defined-Something not defined when we try to print 
+//null
+//Nan-When any variable is divided by a number which is string
