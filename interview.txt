@@ -1,0 +1,9 @@
+Comparison operators are used in logical statements to determine equality or difference between variables or values.
+==    Only value is compared
+===   only value and also data type 
+!=   Not equal to value 
+!==   Not equal to value and data type
+> Greater than
+< Less than
+>= Greater than or equal to
+<= Less than or equal to 
