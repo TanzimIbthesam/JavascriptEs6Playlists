@@ -1,0 +1,6 @@
+Types of Operators
+1.Arithmatic Operator-+,-,%,/
+2.Assignment Operator-+= -= *= %=
+3.Comparison Operator- ==,===
+4.Logical Operator && OR 
+
