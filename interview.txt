@@ -1,0 +1,5 @@
+Control Flow?
+
+In Javascript while we run a script it executes line by line from top to bottom.
+But if we want we can control the flow of information that is called Control Flow
+In array if there are four fruits you want to print 2 fruits
