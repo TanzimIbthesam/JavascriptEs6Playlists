@@ -1,0 +1,2 @@
+While Loop Loops through a block of code as long as specific condition is met 
+Syntactically a bit different from for Loop
