@@ -1,0 +1,8 @@
+Loop-In general is something which runs infinitely 
+In Programming Loop is something which runs till a specific condition is met
+For Loop
+1.Initialization
+2.Condition 
+3.Increment/Decrement 
+
+
