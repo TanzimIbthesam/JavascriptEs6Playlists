@@ -1,0 +1,1 @@
+Else Conditional statement to specify a block of code to be executed else statement to specify a block of code to be executed if the condition is false.
