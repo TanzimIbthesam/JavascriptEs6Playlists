@@ -1,0 +1,1 @@
+Do While Loop-while loop check condition before iteration of the loop. On the other hand, the do-while loop verifies the condition after the execution of the statements inside the loop
