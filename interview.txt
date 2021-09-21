@@ -1,1 +1,1 @@
-Ternery operator can be said as the short hand for writing if statement when there is only one condition like only if or if else
+Ternary operator can be said as the short hand for writing if statement when there is only one condition like only if or if else
