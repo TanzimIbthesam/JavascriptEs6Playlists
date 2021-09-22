@@ -1,0 +1,3 @@
+Parameters-whatever is passed onto a parenthesis of a function (name,email) such things are known as Parameters
+
+Value passed onto a parameter is known as argument 
