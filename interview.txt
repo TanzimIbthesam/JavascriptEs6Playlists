@@ -1,0 +1,4 @@
+Function- Simply but a block of code 
+use the key word function to write it 
+referenced by name 
+invoke the function to see results
