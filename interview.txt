@@ -1,0 +1,2 @@
+Return is use inside function and the execution of the function is stopped immediately
+If function can return any number to the power
