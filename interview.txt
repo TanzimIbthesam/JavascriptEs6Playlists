@@ -1,0 +1,6 @@
+Fat arrow function has 3 steps 
+1. Name a varible const name=
+2.Use parenthesis and a fatarrow ()=>
+3.Use curly braces {}
+
+Combine all of them
