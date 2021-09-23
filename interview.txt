@@ -1,0 +1,1 @@
+The forEach() method calls a function once for each element in an array, in order.
