@@ -1,0 +1,5 @@
+functions are referred as first class citizens 
+
+-Use function by declaring it inside a varaible 
+-Using function as an argument inside another function 
+-Using function without a name wrapping it inisde a parenthesis
