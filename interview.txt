@@ -1,0 +1,5 @@
+//Function
+Defined by users can also be methods
+//Methods 
+Predefined functions or functions use to change outcome of a string object or array 
+we usually invoke it by a dot notation
