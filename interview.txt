@@ -1,0 +1,3 @@
+//Function Declaration-Declare Function Es5 way 
+//Function expression-Declare function inside a variable
+//Major difference is you cant hoist a function expression whereas you can hoist a function declaration
