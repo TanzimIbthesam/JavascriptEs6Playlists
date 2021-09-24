@@ -17,6 +17,5 @@ profilename();
 
 (()=>{
     console.log("Hello World");
-})
+})();
 
-()
