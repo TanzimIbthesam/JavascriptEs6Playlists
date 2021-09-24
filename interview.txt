@@ -1,0 +1,5 @@
+this usually refers to global window object 
+
+When we invoke regular functions this refers to as window object
+
+Inside objects when we write methods this has access to every property in the object
