@@ -1,0 +1,5 @@
+The JavaScript Math object allows you to perform mathematical tasks on numbers.
+Math.round- returns the nearest integer:
+Math.ceil-returns the value of x rounded up to its nearest integer
+Math.floor- returns the value of x rounded down to its nearest integer
+Math.random-By default it takes random values between 0 and 1
