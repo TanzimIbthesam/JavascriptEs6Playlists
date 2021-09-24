@@ -1,0 +1,1 @@
+Properties in an object are stored a key value pairs
