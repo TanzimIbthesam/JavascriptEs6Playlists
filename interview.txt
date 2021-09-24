@@ -1,0 +1,1 @@
+Object-Is a data type in Javascript where everything is stored in key value pairs
