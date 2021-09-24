@@ -1,0 +1,2 @@
+The object destructuring is a useful JavaScript feature to extract properties from objects and bind them to variables.
+https://dmitripavlutin.com/javascript-object-destructuring/
