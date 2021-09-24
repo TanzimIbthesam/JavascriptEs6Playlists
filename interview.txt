@@ -1,0 +1,4 @@
+Methods in Javascript objects-Any function which is defined inside the object is known as methods
+
+//Functions inside objects
+You cant write regular function or even a fat arrow function inside object
